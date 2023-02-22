@@ -1,0 +1,18 @@
+.cpu-container {
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+}
+
+.cpu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.model span {
+  font-size: 16px;
+  font-weight: bold;
+}
